@@ -17,7 +17,7 @@
 - [x] 글 작성에 대한 **부담과 귀찮음을 최소화**, 즐거운 글 작성 경험 제공
 - [x] 사용자의 피드백을 수집하고, **알고리즘과 모델을 지속적으로 개선**
 
-## 💻 Team
+## 💻 Member of Nbti
 ###### (이름 가나다순입니다)  
 
 | Role | Name | Github ID | Work |
@@ -32,9 +32,10 @@
 | | 세벨/이찬미 | [@05AM](https://github.com/05AM) | 글 작성/조회 |
 
 ## 🛠️ Tech Stack
-- **Android**  
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84??style=plastic&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A333F1??style=plastic&logo=kotlin&logoColor=white)  
-- **Server**  
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6BB536??style=plastic&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0D8AC7??style=plastic&logo=Java)  
+**Android**  
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" height="24"/> </a> <!-- Kotlin -->  
+**Server**  
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" height="24"/> </a> <!-- SpringBoot -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="24"/> </a> <!-- Java -->
+<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chat_openai-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" height="24"/> </a> <!-- Chat OpenAI -->
